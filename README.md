@@ -17,6 +17,7 @@ mim install mmengine==0.7.3
 
 mim install mmcv==2.0.0
 
+mkdir data
 mkdir cache
 mkdir temp_cheakpoints
 pip install -v -e .

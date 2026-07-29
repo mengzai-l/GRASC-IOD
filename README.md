@@ -1,5 +1,3 @@
-from os import mkdir
-
 ### Install
 You can follow the steps to prepare the environment:
 ```
